@@ -9,11 +9,11 @@ find the project requirements and details.
 
 Please download the following dump files to your local machine, then import to your database on your phpMyAdmin or MYSQL WORKBENCH.
 
-chicago_crime.sql
-chicago_public_schools.sql
-chicago_socioeconomic_data.sql
+chicago_crime.sql\
+chicago_public_schools.sql\
+chicago_socioeconomic_data.sql\
 
-You can find my solutions on all of the questions from my repositories. 
+You can find my solutions for all of the questions about the project from my repositories. 
 For your convenance,  following code is for the solutions on Exercise 4: Using Transactions
 
 
